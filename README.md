@@ -1,5 +1,5 @@
 # Machine-Learning
-A repository that gives the learning of machine learning
+A repository data analysis using ML
 
 LINEAR REGRESSION :
 
